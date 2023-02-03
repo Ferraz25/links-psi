@@ -7,7 +7,6 @@ Projeto desenvolvido com o intuito de reunir todos os links de trabalho de uma P
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,7 +17,7 @@ Projeto desenvolvido com o intuito de reunir todos os links de trabalho de uma P
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Capa do LinksPsi" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O LinksPsi é um agredador de links para usar como catão de visitas online.
+O LinksPsi é um agredador de links para usar como cartão de visitas online.
 
 ## :memo: Licença
 
