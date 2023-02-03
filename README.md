@@ -1,7 +1,7 @@
 <h1 align="center"> LinksPsi </h1>
 
 <p align="center">
-Projeto desenvolvido com o intuito de reunir todos os links de trabalho de uma Psicóloga
+Projeto desenvolvido com o intuito de reunir todos os links de trabalho da Psicóloga Vanessa Ferraz
 </p>
 
 <p align="center">
@@ -39,4 +39,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by João Victor :wave: [Linkedin](https://www.linkedin.com/in/victorferraz54/)
+Feito com ♥ por João Victor :wave: [Linkedin](https://www.linkedin.com/in/victorferraz54/)
